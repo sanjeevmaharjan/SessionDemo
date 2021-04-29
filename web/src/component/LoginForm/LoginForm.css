@@ -1,0 +1,9 @@
+.Login {
+  width: 20em;
+  margin: 2em auto;
+}
+
+.LoginError {
+  text-align: center;
+  margin-top: 1em;
+}
